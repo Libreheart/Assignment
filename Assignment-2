@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="R-style.css">
+<title>Module 2 Solution</title>
+</head>
+
+
+<body>
+
+<h1>Three Steps to Put an Elephant into a Box</h1>
+<div class="row"> 
+ <div class="box col-lg-4 col-md-6">
+  <section>
+  <div id="step-one">Step One</div>
+  <p>open the box open the box open the box open the box open the box open the box open the box open the box open the box open the box open the box open the box open the box open the box open the box open the box open the box open the box open the box open the box open the box open the box open the box open the box open the box open the box open the box open the box open the box open the box open the box open the box open the box open the box open the box open the box open the box open the box open the box open the box open the box open the box open the box open the box open the box open the box open the box open the box open the box open the box open the box open the box open the box open the box open the box open the box open the box open the box </p>
+  </section>
+ </div>
+
+ <div class="box col-lg-4 col-md-6">
+  <section>
+  <div id="step-two">Step Two</div>
+  <p>squeeze the elephant into the box squeeze the elephant into the box squeeze the elephant into the box squeeze the elephant into the box squeeze the elephant into the box squeeze the elephant into the box squeeze the elephant into the boxsqueeze the elephant into the box squeeze the elephant into the box squeeze the elephant into the box squeeze the elephant into the box squeeze the elephant into the box squeeze the elephant into the box squeeze the elephant into the box squeeze the elephant into the box squeeze the elephant into the box squeeze the elephant into the box squeeze the elephant into the box squeeze the elephant into the boxsqueeze the elephant into the box squeeze the elephant into the box squeeze the elephant into the box squeeze the elephant into the box squeeze the elephant into the box</p>
+ </div>
+  </section>
+
+ <div class="box col-lg-4 col-md-12">
+  <section>
+  <div id="step-three">Step Three</div>
+  <p>Close the box Close the box Close the box Close the box Close the box Close the box Close the box Close the box Close the box Close the box Close the box Close the box Close the box Close the box Close the box Close the box Close the box Close the box Close the box Close the box Close the box Close the box Close the box Close the box Close the box Close the box Close the box Close the box Close the box Close the box Close the box Close the box Close the box Close the box Close the box Close the box Close the box Close the box Close the box Close the box Close the box Close the box Close the box Close the box Close the box Close the box Close the box Close the box Close the box Close the box Close the box Close the box Close the box Close the box Close the box Close the box Close the box Close the box Close the box Close the box Close the box</p>
+ </div>
+ </section>
+</div>
+
+</body>
+</html>
